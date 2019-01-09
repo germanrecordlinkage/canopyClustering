@@ -1,0 +1,10 @@
+Package: canopyClustering
+Type: Package
+Title: Canopy Clustering
+Version: 1.1
+Date: 2014-04-01
+Author: Stefani Kamphausen, Markus Koetter
+Maintainer: Rainer Schnell <rainer.schnell@uni-due.de>
+Description: Canopy Clustering
+License: GPL-3
+Packaged: 2014-04-01 07:40:44 UTC; mko

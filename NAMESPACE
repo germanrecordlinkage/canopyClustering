@@ -1,0 +1,2 @@
+export(canopyClustering.matchFiles, canopyClustering.statistics)
+useDynLib(canopyClustering, ccMatchFilesCall, ccStatisticsCall)
